@@ -1,4 +1,3 @@
-
 # Victor Gabriel Toledo
 
 ##### Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou no 2º semestre da faculdade.
@@ -17,9 +16,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victor-Gabriel-Toledo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Principais Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Toledo&repo=Calculadora_de_Partida_Rankeada&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Victor-Gabriel-Toledo/Calculadora_de_Partida_Rankeada.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Toledo&repo=Calculadora_de_Partida_Rankeada&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Victor-Gabriel-Toledo/Game_FIFA.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Toledo&repo=Classes_de_Um_Jogo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Victor-Gabriel-Toledo/Classes_de_Um_Jogo.git)
-
-
-
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Gabriel-Toledo&repo=Game_FIFA&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Victor-Gabriel-Toledo/Game_FIFA.git)
